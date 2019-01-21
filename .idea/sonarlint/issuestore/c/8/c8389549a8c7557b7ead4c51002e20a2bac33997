@@ -1,0 +1,11 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÕÓâŞ„-
+Psquid:S1135"2Complete the task associated to this TODO comment.(…ïœ†8Ö€¸Ş„-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ƒÎ‰øÿÿÿÿ8Ö€¸Ş„-
+8squid:S1220""Move this file to a named package.8î¼¾Ş„-
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¹ŠïÉ8Ö€¸Ş„-
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Èá•öùÿÿÿÿ8Ö€¸Ş„-
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(é¶¤µ8Ö€¸Ş„-
